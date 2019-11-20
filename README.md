@@ -7,7 +7,7 @@ You can purchase the video at:  [Pragmatic AI and Machine Learning Core Principl
 
 ## Background 
 
-This material is derived from lectures at UC Berkeley, UC Davis, Northwestern and University of San Francisco. Credit to professors who have inspired some of the topics or content including:  Dan Gillick, Josh Blumenstock, Hemant Bhargava, Dickson Louie, Andrew Ng, Peter Norvig and Joseph Bogen.
+This material is derived from lectures at UC Berkeley, UC Davis, Northwestern and University of San Francisco. Credit to professors who have inspired some of the topics or content including:  Dan Gillick, Josh Blumenstock, Hemant Bhargava, Dickson Louie, Andrew Ng, Peter Norvig, Raymond Hettinger and Joseph Bogen.
 
 ### Additional Related Topics from Noah Gift
 
